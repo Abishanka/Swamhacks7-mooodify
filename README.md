@@ -1,4 +1,4 @@
-# Swamhacks7-mooodify
+# Swamphacks7-mooodify
 Sentiment Analysis Website for College Students
 
 The website is built using Flask framework to integrate the Tensorflow code written in Python. 
